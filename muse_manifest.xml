@@ -1,0 +1,413 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carlosgarciadesigner.com" resolutions="1x" timestamp="1495588367831">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="20150920" ref="portfolio:contact:about:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="portfolio:contact:about:index"/>
+    <file name="portfolio.css" crc="4252493675" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="3761697618" ref="portfolio"/>
+    <file name="contact.css" crc="40696457" ref="contact"/>
+    <file name="nomq_contact.css" crc="44290995" ref="contact"/>
+    <file name="about.css" crc="4057317129" ref="about"/>
+    <file name="nomq_about.css" crc="75875291" ref="about"/>
+    <file name="index.css" crc="4075749620" ref="index"/>
+    <file name="nomq_index.css" crc="3787890400" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:about:contact"/>
+    <file name="museutils.js" crc="4232573551" ref="index:portfolio:about:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:about:contact"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:portfolio:about:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:portfolio:about"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:portfolio:about:contact"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:portfolio:about:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:about:contact"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:portfolio:about:contact"/>
+    <file name="require.js" crc="4234670167" ref="index:portfolio:about:contact"/>
+    <file name="webpro.js" crc="3770351119" ref="portfolio"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="portfolio"/>
+    <file name="touchswipe.js" crc="3912873526" ref="portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="vynil_car_wrap-07.png" crc="423384650" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header_banner.png" crc="3789366923" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="t-shirt_nosharow-05-05.png" crc="4003411839" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="karma_poster03.jpg" crc="392932793" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hardspacedesign.jpg" crc="486763893" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black friday sales banner.jpg" crc="17943212" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphicdesignbanner12.jpg" crc="268079411" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannerfestivaelectronicrgb.jpg" crc="3852370017" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="car_wrap_design.jpg" crc="3824756943" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kitchen_magazine_file2.jpg" crc="218521773" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kitchen_magazine_file3.jpg" crc="168925174" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pencil_color_design.jpg" crc="21326514" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wmc_banner.png" crc="14019888" ref="index:portfolio" seo="true">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="vynil_car_wrap-07-u2390-fr.png" crc="158295714" ref="index"/>
+    <file name="karma_poster03-u2641-fr.jpg" crc="3992990235" ref="index"/>
+    <file name="bannerfestivaelectronicrgb-u8429-fr.jpg" crc="3888110624" ref="index"/>
+    <file name="kitchen_magazine_file2-u8499-fr.jpg" crc="117971296" ref="index"/>
+    <file name="kitchen_magazine_file3-u8513-fr.jpg" crc="243863495" ref="index"/>
+    <file name="pencil_color_design-u8533-fr.jpg" crc="183245477" ref="index"/>
+    <file name="t-shirt_nosharow-05-05-u2367-fr.png" crc="4050986081" ref="index"/>
+    <file name="vynil_car_wrap-07-u2390-fr2.png" crc="3774441969" ref="index"/>
+    <file name="karma_poster03-u2641-fr2.jpg" crc="4064505072" ref="index"/>
+    <file name="bannerfestivaelectronicrgb-u8429-fr2.jpg" crc="368389050" ref="index"/>
+    <file name="kitchen_magazine_file2-u8499-fr2.jpg" crc="461869587" ref="index"/>
+    <file name="kitchen_magazine_file3-u8513-fr2.jpg" crc="4038174147" ref="index"/>
+    <file name="pencil_color_design-u8533-fr2.jpg" crc="423604687" ref="index"/>
+    <file name="wmc_banner-u3058-fr.png" crc="19094180" ref="index"/>
+    <file name="t-shirt_nosharow-05-05-u2367-fr2.png" crc="4220670889" ref="index"/>
+    <file name="vynil_car_wrap-07-u2390-fr3.png" crc="4075788318" ref="index"/>
+    <file name="wmc_banner-u3058-fr2.png" crc="443152816" ref="index"/>
+    <file name="karma_poster03-u2641-fr3.jpg" crc="486278648" ref="index"/>
+    <file name="pencil_color_design-u8533-fr3.jpg" crc="4060494626" ref="index"/>
+    <file name="hardspacedesign-u8387-fr.jpg" crc="3999877579" ref="index"/>
+    <file name="bannerfestivaelectronicrgb-u8429-fr3.jpg" crc="4218256324" ref="index"/>
+    <file name="graphicdesignbanner12-u8415-fr.jpg" crc="484365297" ref="index"/>
+    <file name="black friday sales banner-u8401-fr.jpg" crc="525858031" ref="index"/>
+    <file name="kitchen_magazine_file2-u8499-fr3.jpg" crc="4264703445" ref="index"/>
+    <file name="kitchen_magazine_file3-u8513-fr3.jpg" crc="3913543790" ref="index"/>
+    <file name="car_wrap_design-u8449-fr.jpg" crc="3837977512" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="portfolio:about:contact"/>
+    <file name="black friday sales banner2.jpg" crc="269824638" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="designn26.jpg" crc="4150668484" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="designp21.png" crc="336714760" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hardspacedesign2.jpg" crc="174480889" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="human-1411499_19201.jpg" crc="386688519" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mcw_sports.png" crc="3970908961" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="nightclub2.jpg" crc="3977540346" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="notebook_layout.png" crc="4144416433" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="transitv1_travelagent.png" crc="4173502178" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="black friday sales banner63x45.jpg" crc="495121193" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hardspacedesign60x55.jpg" crc="71908139" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="human-1411499_1920166x45.jpg" crc="4219433305" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="transitv1_travelagent60x45.png" crc="3774852114" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="u12603-4.png" crc="3791403787" ref="portfolio"/>
+    <file name="u12603-42.png" crc="424046695" ref="portfolio"/>
+    <file name="artboard 2-u4436-33.png" crc="291553082" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="artboard 1-u4416-33.png" crc="3801021621" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u12603-43.png" crc="234374591" ref="portfolio"/>
+    <file name="314613_583462595014246_638396535_n.jpg" crc="4253526046" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u11720-9.png" crc="4250609838" ref="about"/>
+    <file name="u11720-92.png" crc="447967778" ref="about"/>
+    <file name="u11720-93.png" crc="3817644864" ref="about"/>
+    <file name="bannergrapicdesign.jpg" crc="4055704709" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="wmc_banner-u3058-fr3.png" crc="283268523" ref="index"/>
+    <file name="menu-01.png" crc="114980361" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="biker-384178artwork22.jpg" crc="4155264907" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="flyer_miamiconfereence_banner.jpg" crc="3997057509" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kitchen_magazine_file.jpg" crc="330172592" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kitchen_magazine_file5.jpg" crc="4029542275" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kitchen_magazine_file6.jpg" crc="3871845631" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine_poster_web.jpg" crc="285716496" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mergeimages2.png" crc="4161569289" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mergeimages3.png" crc="4161569289" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="t_shirt_design.png" crc="260747104" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="designn26-crop-u14436.jpg" crc="4271595839" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="designp21-crop-u14484.png" crc="4002335278" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mcw_sports-crop-u14628.png" crc="4051463668" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="menu-0163x46.png" crc="4097955727" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="biker-384178artwork2247x45.jpg" crc="4227154199" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="flyer_miamiconfereence_banner35x45.jpg" crc="475710610" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kitchen_magazine_file32x45.jpg" crc="240352693" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kitchen_magazine_file560x43.jpg" crc="4102262300" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kitchen_magazine_file632x45.jpg" crc="3780801232" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine_poster_web35x45.jpg" crc="442971425" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mergeimages257x45.png" crc="200880507" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mergeimages357x45.png" crc="200880507" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="nightclub2-crop-u14724.jpg" crc="96699218" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="notebook_layout-crop-u14772.png" crc="495442747" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="t_shirt_design-crop-u14820.png" crc="4039263017" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="wmc_banner-crop-u14916.png" crc="4183287306" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="designn26-crop-u14422.jpg" crc="388656980" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="designp21-crop-u14470.png" crc="451315114" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mcw_sports-crop-u14614.png" crc="4167910941" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="biker-384178artwork22369x360.jpg" crc="466717936" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="flyer_miamiconfereence_banner279x360.jpg" crc="27341769" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kitchen_magazine_file255x360.jpg" crc="130644196" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="kitchen_magazine_file6255x360.jpg" crc="4060516852" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="magazine_poster_web278x360.jpg" crc="376176259" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mergeimages2451x360.png" crc="256138061" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mergeimages3451x360.png" crc="256138061" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="nightclub2-crop-u14710.jpg" crc="421000552" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="notebook_layout-crop-u14758.png" crc="3995885686" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="t_shirt_design-crop-u14806.png" crc="3894803501" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="wmc_banner-crop-u14902.png" crc="4211678204" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="designn26-crop-u144362.jpg" crc="4271595839" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="designp21-crop-u144842.png" crc="4002335278" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mcw_sports-crop-u146282.png" crc="4051463668" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="nightclub2-crop-u147242.jpg" crc="96699218" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="notebook_layout-crop-u147722.png" crc="495442747" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="t_shirt_design-crop-u148202.png" crc="4039263017" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="wmc_banner-crop-u149162.png" crc="4183287306" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="designn26-crop-u144222.jpg" crc="388656980" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="designp21-crop-u144702.png" crc="451315114" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mcw_sports-crop-u146142.png" crc="4167910941" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="nightclub2-crop-u147102.jpg" crc="421000552" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="notebook_layout-crop-u147582.png" crc="3995885686" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="t_shirt_design-crop-u148062.png" crc="3894803501" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="wmc_banner-crop-u149022.png" crc="4211678204" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="designn26-crop-u144363.jpg" crc="4271595839" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="designp21-crop-u144843.png" crc="4002335278" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mcw_sports-crop-u146283.png" crc="4051463668" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="nightclub2-crop-u147243.jpg" crc="96699218" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="notebook_layout-crop-u147723.png" crc="495442747" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="t_shirt_design-crop-u148203.png" crc="4039263017" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="wmc_banner-crop-u149163.png" crc="4183287306" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="45016588" seo="true" mt="1495588354745" redirect="true"/>
+  <file name="portfolio.html" crc="3869140721" seo="true" mt="1495588367290" redirect="true"/>
+  <file name="about.html" crc="179298416" seo="true" mt="1494371881398" redirect="true"/>
+  <file name="contact.html" crc="4116819118" seo="true" mt="1494371711656" redirect="true"/>
+</manifest>
